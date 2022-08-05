@@ -1,13 +1,15 @@
 body{
-    display: block;
+  
 }
 
 h1{
+    text-align: center;
 font-family: 'Lora', serif;
 font-weight: 500;
 }
 
 h2{
+    text-align: center;
     font-family: 'Lora', serif;
     font-style: italic;
     font-weight: 500;
