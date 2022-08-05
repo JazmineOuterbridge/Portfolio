@@ -1,2 +1,14 @@
+body{
+    display: block;
+}
+
+h1{
 font-family: 'Lora', serif;
-font-family: 'Rubik Moonrocks', cursive;
+font-weight: 500;
+}
+
+h2{
+    font-family: 'Lora', serif;
+    font-style: italic;
+    font-weight: 500;
+}
