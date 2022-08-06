@@ -1,7 +1,7 @@
 :root{
 --primary-color: #A7CCBA;
---secondary-color:#F0ECEC;
---sub-color:#7B7070;
+--secondary-color:#bbbaba;
+--sub-color:#E0F3FA;
 --fisrt-font:Lora,serif;
 --second-font:Muktas, sans-serif;
 
@@ -27,7 +27,7 @@ h2{
 .hero{
     background-color: var(--primary-color);
     text-align: center;
-  margin: 50px 0;
+    padding: 30px;
 
 }
 
@@ -37,4 +37,8 @@ h2{
     background-color: var(--sub-color);
     border-radius: 16px;
     padding:5px;
+}
+
+.container{
+    padding-top:30px;
 }
