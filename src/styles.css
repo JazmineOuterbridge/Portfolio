@@ -74,12 +74,15 @@ p{
 }
 
 .contact-link{
+    display:block;
     color: #A7CCBA;
     text-decoration: none;
     text-align: center;
     justify-content: center;
 }
-
+.contact-link:hover{
+    color: gray;
+}
 
 @media (max-width:900px) {
 
