@@ -24,6 +24,12 @@ h2{
     font-size: 5px;
 }
 
+p{
+    text-align: center;
+    font-family: var(--second-font);
+    font-weight: bold;
+}
+
 .hero{
     background-color: var(--primary-color);
     text-align: center;
@@ -66,6 +72,14 @@ h2{
     margin-top: 60px;
    
 }
+
+.contact-link{
+    color: #A7CCBA;
+    text-decoration: none;
+    text-align: center;
+    justify-content: center;
+}
+
 
 @media (max-width:900px) {
 
